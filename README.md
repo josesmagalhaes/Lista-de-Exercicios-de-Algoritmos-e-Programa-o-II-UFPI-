@@ -3,7 +3,7 @@ que foi feita na última aula de Algoritmos e Proframação II que ocorreu no ú
 
 Para acessar somente os códigos fonte, entre nas pasta src/uapi/lista01
 
-UNIVERSIDADE FEDERAL DO PIAUÍ - UFPI
-Aluno: José de Sousa Magalhães
-Linguagem: Java
+UNIVERSIDADE FEDERAL DO PIAUÍ - UFPI/
+Aluno: José de Sousa Magalhães/
+Linguagem: Java/
 Desenvolvido com: Eclipse Kepler
